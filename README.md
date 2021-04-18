@@ -1,6 +1,6 @@
 # Markdown Container plugin for Publish
 
-A [Publish](https://github.com/johnsundell/publish) plugin that allows using container (`<div>`) with ids or classes in a Publish website.
+A [Publish](https://github.com/johnsundell/publish) plugin that allows using container (`<div>`) with ids or classes in the Markdown files of a Publish website.
 
 ## Installation
 
