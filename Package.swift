@@ -19,7 +19,7 @@ let package = Package(
             targets: ["MarkdownContainerPublishPlugin"]),
     ],
     dependencies: [
-        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.5.0"),
+        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", "0.7.0"..."0.8.0"),
     ],
     targets: [
         .target(
