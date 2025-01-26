@@ -1,4 +1,4 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.5
 
 //
 //  Package.swift
@@ -12,6 +12,7 @@ import PackageDescription
 
 let package = Package(
     name: "MarkdownContainerPublishPlugin",
+    platforms: [.macOS(.v12)],
     products: [
         .library(
             name: "MarkdownContainerPublishPlugin",
